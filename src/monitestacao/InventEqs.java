@@ -293,7 +293,7 @@ public class InventEqs extends JFrame
         });
         this.pn_principal.setBorder(BorderFactory.createEtchedBorder());
         this.lbl_titulo.setFont(new Font("Arial", 1, 48));
-        this.lbl_titulo.setText("Monitoramento eQS");
+        this.lbl_titulo.setText("Monitoramento Estacoes");
         final GroupLayout pn_principalLayout = new GroupLayout(this.pn_principal);
         this.pn_principal.setLayout(pn_principalLayout);
         pn_principalLayout.setHorizontalGroup(pn_principalLayout.createParallelGroup(GroupLayout.Alignment.LEADING).addGroup(pn_principalLayout.createSequentialGroup().addGap(188, 188, 188).addComponent(this.lbl_titulo).addContainerGap(252, 32767)));
